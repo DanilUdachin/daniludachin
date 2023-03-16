@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="ru">
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="">
+        <title>Work4 Resume</title>
+    </head>
+    <body>
+       <div class="header">
+        <h1>Данил Удачин</h1>
+        <h2 id="important">Аналитиик</h2>
+        <div> Моя почта: <a href="mailto:udn@riu.ru">udn@riu.ru,</a> Информационный сайт:<a href="https://www.rosugol.ru">https://www.rosugol.ru</a></div>
+        </div>
+       <div class="main">
+        <p>Вначале все резюме просматривает «умная» программа, отбирает документы, соответствующие запросам, и уже с отобранными резюме продолжает работу хедхантер.
+            То есть самый умелый аналитик может «пролететь» мимо вакансии, если в резюме не укажет ключевые навыки.
+            К счастью для новичков или асов аналитики, сами рекрутеры дают советы по составлению грамотного резюме аналитика данных, а задача соискателя – следовать им, заполняя документ правильно.
+        </p>
+        <h2>Опыт работы</h2>
+        <h3>Росинформуголь</h3>
+        <p>Аналитик (стажировка), август 2021 - февраль 2022</p>
+        <ul>
+            <li>Ежемесячный бюллетень "Состояние и динамика цен на угольную продукцию"</li>
+            <li>Плевание в потолок</li>
+        </ul>
+        <h3>РЭА Минэненерго</h3>
+        <p>Главный эксперт отдела аналитических исследований и краткосрочного прогнозированния развития <b>угольной</b> промышленности</p>
+        <ul>
+            <li>Ежемесячный бюллетень "Состояние и динамика цен на угольную продукцию"</li>
+            <li>Ведение информационного сайта</li>
+            <li>Мониторинг добычи, импорта, экспорта стран СНГ</li>
+            <li>Плевание в потолок, естественно</li>
+        </ul>
+        <h2>Образование</h2>
+        <h3>Высшее техническое НИТУ МИСиС Горный институт</h3>
+        <p>Горные машины и оборудования, специалист горного дела</p>
+        <h2>Другие навыки и увлечения</h2>
+        <ul>
+            <li>Играть в компьютерные игры</li>
+            <li>Плевать в потолок</li>
+            <li>Заниматься спортом</li>
+            <li>AutoCAD</li>
+            <li>SolidWorks</li>
+            <li>Inventor</li>
+            <li>Изучение программирования </li>
+        </ul>
+       </div> 
+       <div class="footer">
+        <p>Danil Udachin</p>
+        <p>Russia, Moscow, Mira Avenue 105c1, <a href="https://www.rosugol.ru">https://www.rosugol.ru</a> </p> 
+       </div>
+    </body>
+</html>
+<style>
+    .header {
+        margin-bottom: 12px;
+        color: black;
+        font-size: 18px;
+        margin-bottom: 10px;
+        text-align: center;
+    }
+    .main {
+        color: black;
+        margin-bottom: 12px;
+        margin-left: 100px;
+
+    }
+    .footer {
+        margin-bottom: 12px;
+        margin-top: 64px;
+        color: black;
+        text-align: center;
+    }
+   h1 {
+    font-weight: 400;
+    font-size: 36px;
+    margin-bottom: 0;
+   }
+   h2 {
+    font-weight: 400;
+    font-size: 32px;
+    border-bottom: 1px solid gray;
+    margin-bottom: 8px;}
+   h3 {
+    font-weight: 400;
+   }
+   #important{
+    font-size: 18px;
+    border-bottom: none;
+    margin-bottom: 10px;
+   }
+   p {
+    margin-right: 100px;
+   }
+</style>
